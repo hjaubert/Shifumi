@@ -1,0 +1,1 @@
+let texte = document.getElementById("joueur").textContent = "ça marche"
